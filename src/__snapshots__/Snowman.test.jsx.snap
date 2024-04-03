@@ -1,0 +1,61 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div
+    class="Snowman"
+  >
+    <img
+      alt="6"
+      src="/src/6.png"
+    />
+    <p>
+       Wrong guesses 
+      6
+       
+    </p>
+    <p
+      class="Snowman-word"
+    >
+      _
+      _
+      _
+      _
+      _
+    </p>
+    <p>
+      Game Over
+    </p>
+  </div>
+</div>
+`;
+
+exports[`only allows max wrong 1`] = `
+<div>
+  <div
+    class="Snowman"
+  >
+    <img
+      alt="6"
+      src="/src/6.png"
+    />
+    <p>
+       Wrong guesses 
+      6
+       
+    </p>
+    <p
+      class="Snowman-word"
+    >
+      _
+      _
+      _
+      _
+      _
+    </p>
+    <p>
+      Game Over
+    </p>
+  </div>
+</div>
+`;
